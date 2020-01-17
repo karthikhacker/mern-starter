@@ -1,7 +1,7 @@
 //Server file
 const express = require('express');
 const bodyParser = require('body-parser');
-const morgn = require('morgan');
+const morgan = require('morgan');
 const cors = require('cors');
 const mongoose = require('mongoose');
 const chalk = require('chalk');
